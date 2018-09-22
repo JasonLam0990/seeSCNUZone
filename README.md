@@ -1,6 +1,29 @@
 # seeSCNUZone
 存放SCNUZone的最新代码，文件已加密
 
+### 华师同校SCNUZone小程序码（长按扫描小程序码查看示例）
+<center>
+ <img src="/images/scnuzone.png" margin=20% width=30% />
+</center>
+
+### 以下是主要功能页面的截图。
+
+<div style="display:flex;justify-content:space-around;"> 
+ <img src="/images/index.png" width=30% />
+ <img src="/images/my.png" width=30% />
+ <img src="/images/find.png" width=30% />
+</div>
+
+<div style="display:flex;justify-content:space-around;"> 
+ <img src="/images/delegate.png" width=30% />
+ <img src="/images/team.png" width=30% />  
+ <img src="/images/mall.png" width=30% />
+</div>
+
+<center>
+ <img src="/images/personcard.png" margin=20% width=30% />
+</center>
+
 #### 2018年7月24日 星期二
 
 1.修复了清除缓存后登陆进来读取不到已填写过的数据的问题<br>
