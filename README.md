@@ -83,3 +83,7 @@
 1.将入口提前了一级，用户刚进来就可以在四个板块切换查看信息，用户体验更好<br>
 2.增加了委托修改功能<br>
 3.完善了实名制权限限制以及提示引导，用户体验更佳<br>
+
+<center>
+ <img src="/images/newindex.png" margin=20% width=30% />
+</center>
